@@ -3688,7 +3688,29 @@
         "Responsive",
         "Cloud"
       ]
-    }
+    },
+    {
+      "name": "VideoGrate",
+      "thumb": "videograte/thumb.png",
+      "desc": "With VideoGrate you can browse and watch videos from YouTube.",
+      "url": "http://www.kongregate.com/games/locos/videograte",
+      "info": "http://www.kongregate.com/games/locos/videograte",
+      "src": "https://github.com/defacto133/videograte",
+      "submitter": "defacto133",
+      "submissionDate": "2015-07-05",
+      "tags": [
+        "Toy",
+        "CRUD",
+        "Entertainment",
+        "YouTube",
+        "YouTube Data API",
+        "YouTube Player API",
+        "jQuery",
+        "Open Source",
+        "Bootstrap",
+        "jQuery UI"
+        ]
+      }
 
   ]
 }
